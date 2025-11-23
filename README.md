@@ -36,8 +36,8 @@ My long-term aim is to excel in purple teaming blending detection, defense, and 
 - Advanced SOC workflows  
 - Detection engineering  
 - Incident response  
-- Red team fundamentals  
-- Malware analysis & reverse engineering  
+- Red team OpSEC
+- Basic Malware Analysis
 - Purple team methodologies
 
 ---

@@ -42,14 +42,6 @@ My long-term aim is to excel in purple teaming blending detection, defense, and 
 
 ---
 
-## 🎯 My Goals
-- Become a strong SOC analyst  
-- Build practical detection labs  
-- Improve my offensive security foundation  
-- Create purple team–oriented projects  
-- Keep growing in cybersecurity  
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>

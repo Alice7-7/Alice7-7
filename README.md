@@ -1,7 +1,7 @@
 # 👋 Hello, I’m **Alex**
 
-### 🔐 Passionate SOC Analyst 
-Driving myself to master defense (blue team).
+### Passionate about SOC Analyst 
+Driving myself to master defense (blue team) & learning red teaming.
 
 ---
 
